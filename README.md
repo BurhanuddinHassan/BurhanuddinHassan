@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BurhanuddinHassan
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning MERN web stack developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me burhanuddinhantela@gmail.com
 
 <!---
 BurhanuddinHassan/BurhanuddinHassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
